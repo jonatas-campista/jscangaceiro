@@ -13,4 +13,8 @@ class	Negociacao	{
     getData(){
         return this._data;
     }
+
+    getQuantidade(){
+        return this._quantidade;
+    }
 }
